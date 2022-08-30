@@ -1,0 +1,12 @@
+H:\WerlenCesar\Herencia_polimorf_5\Herencia_polimorf_5\bin\Debug\net6.0\Herencia_polimorf_5.deps.json
+H:\WerlenCesar\Herencia_polimorf_5\Herencia_polimorf_5\bin\Debug\net6.0\Herencia_polimorf_5.dll
+H:\WerlenCesar\Herencia_polimorf_5\Herencia_polimorf_5\bin\Debug\net6.0\ref\Herencia_polimorf_5.dll
+H:\WerlenCesar\Herencia_polimorf_5\Herencia_polimorf_5\bin\Debug\net6.0\Herencia_polimorf_5.pdb
+H:\WerlenCesar\Herencia_polimorf_5\Herencia_polimorf_5\obj\Debug\net6.0\Herencia_polimorf_5.csproj.AssemblyReference.cache
+H:\WerlenCesar\Herencia_polimorf_5\Herencia_polimorf_5\obj\Debug\net6.0\Herencia_polimorf_5.GeneratedMSBuildEditorConfig.editorconfig
+H:\WerlenCesar\Herencia_polimorf_5\Herencia_polimorf_5\obj\Debug\net6.0\Herencia_polimorf_5.AssemblyInfoInputs.cache
+H:\WerlenCesar\Herencia_polimorf_5\Herencia_polimorf_5\obj\Debug\net6.0\Herencia_polimorf_5.AssemblyInfo.cs
+H:\WerlenCesar\Herencia_polimorf_5\Herencia_polimorf_5\obj\Debug\net6.0\Herencia_polimorf_5.csproj.CoreCompileInputs.cache
+H:\WerlenCesar\Herencia_polimorf_5\Herencia_polimorf_5\obj\Debug\net6.0\Herencia_polimorf_5.dll
+H:\WerlenCesar\Herencia_polimorf_5\Herencia_polimorf_5\obj\Debug\net6.0\ref\Herencia_polimorf_5.dll
+H:\WerlenCesar\Herencia_polimorf_5\Herencia_polimorf_5\obj\Debug\net6.0\Herencia_polimorf_5.pdb
