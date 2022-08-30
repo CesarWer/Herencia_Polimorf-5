@@ -13,26 +13,27 @@ namespace Herencia_polimorf_5
         public DateTime FechaIngreso { get; set; }
         public int PrecioLista { get; set; }
         public int PorcentajeDescuento { get; set; }
-
+        public int AñosGarantia { get; set; }
         
         public int ObtenerAñosGarantia(int PrecioLista,DateTime FechaIngreso)
         {
-            DateTime FechaAcomparar= new DateTime(DateTime.Now.Year,1,1)
-            ;
+            DateTime FechaAcomparar = new DateTime(DateTime.Now.Year, 1, 1);
+            
             if (PrecioLista >= 9000)
             {
                 return 1;
-            }
-            if (PrecioLista < 9000 && DateTime.Compare(FechaIngreso, FechaAcomparar)>0)
+            }else if (DateTime.Compare(FechaIngreso, FechaAcomparar)>0)
             {
                 return 3;
             }else
             {
                 return 2;
-            }
-
-            return 0;
+            }            
         }
 
+        public virtual int ObtenerPorcentajeDescuento(int Codigo)
+        {
+            return 0;
+        }
     }
 }
